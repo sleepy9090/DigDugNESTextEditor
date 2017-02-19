@@ -1,0 +1,9 @@
+F:\Users\sleepy\Documents\visual studio 2013\Projects\DigDugNESTextEditor\DigDugNESTextEditor\bin\Release\DigDugNESTextEditor.exe.config
+F:\Users\sleepy\Documents\visual studio 2013\Projects\DigDugNESTextEditor\DigDugNESTextEditor\bin\Release\DigDugNESTextEditor.exe
+F:\Users\sleepy\Documents\visual studio 2013\Projects\DigDugNESTextEditor\DigDugNESTextEditor\bin\Release\DigDugNESTextEditor.pdb
+F:\Users\sleepy\Documents\visual studio 2013\Projects\DigDugNESTextEditor\DigDugNESTextEditor\obj\Release\DigDugNESTextEditor.AboutBox1.resources
+F:\Users\sleepy\Documents\visual studio 2013\Projects\DigDugNESTextEditor\DigDugNESTextEditor\obj\Release\DigDugNESTextEditor.Form1_DigDug.resources
+F:\Users\sleepy\Documents\visual studio 2013\Projects\DigDugNESTextEditor\DigDugNESTextEditor\obj\Release\DigDugNESTextEditor.Properties.Resources.resources
+F:\Users\sleepy\Documents\visual studio 2013\Projects\DigDugNESTextEditor\DigDugNESTextEditor\obj\Release\DigDugNESTextEditor.csproj.GenerateResource.Cache
+F:\Users\sleepy\Documents\visual studio 2013\Projects\DigDugNESTextEditor\DigDugNESTextEditor\obj\Release\DigDugNESTextEditor.exe
+F:\Users\sleepy\Documents\visual studio 2013\Projects\DigDugNESTextEditor\DigDugNESTextEditor\obj\Release\DigDugNESTextEditor.pdb
