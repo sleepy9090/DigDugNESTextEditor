@@ -8,3 +8,14 @@ f:\users\sleepy\documents\visual studio 2013\Projects\DigDugNESTextEditor\DigDug
 f:\users\sleepy\documents\visual studio 2013\Projects\DigDugNESTextEditor\DigDugNESTextEditor\obj\Debug\DigDugNESTextEditor.csproj.GenerateResource.Cache
 f:\users\sleepy\documents\visual studio 2013\Projects\DigDugNESTextEditor\DigDugNESTextEditor\obj\Debug\DigDugNESTextEditor.exe
 f:\users\sleepy\documents\visual studio 2013\Projects\DigDugNESTextEditor\DigDugNESTextEditor\obj\Debug\DigDugNESTextEditor.pdb
+C:\Users\Administrator\source\repos\DigDugNESTextEditor\DigDugNESTextEditor\bin\Debug\DigDugNESTextEditor.exe.config
+C:\Users\Administrator\source\repos\DigDugNESTextEditor\DigDugNESTextEditor\bin\Debug\DigDugNESTextEditor.exe
+C:\Users\Administrator\source\repos\DigDugNESTextEditor\DigDugNESTextEditor\bin\Debug\DigDugNESTextEditor.pdb
+C:\Users\Administrator\source\repos\DigDugNESTextEditor\DigDugNESTextEditor\obj\Debug\DigDugNESTextEditor.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\DigDugNESTextEditor\DigDugNESTextEditor\obj\Debug\DigDugNESTextEditor.AboutBox1.resources
+C:\Users\Administrator\source\repos\DigDugNESTextEditor\DigDugNESTextEditor\obj\Debug\DigDugNESTextEditor.Form1_DigDug.resources
+C:\Users\Administrator\source\repos\DigDugNESTextEditor\DigDugNESTextEditor\obj\Debug\DigDugNESTextEditor.Properties.Resources.resources
+C:\Users\Administrator\source\repos\DigDugNESTextEditor\DigDugNESTextEditor\obj\Debug\DigDugNESTextEditor.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\DigDugNESTextEditor\DigDugNESTextEditor\obj\Debug\DigDugNESTextEditor.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\DigDugNESTextEditor\DigDugNESTextEditor\obj\Debug\DigDugNESTextEditor.exe
+C:\Users\Administrator\source\repos\DigDugNESTextEditor\DigDugNESTextEditor\obj\Debug\DigDugNESTextEditor.pdb
